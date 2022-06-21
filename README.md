@@ -1,3 +1,16 @@
+<img src="ss.png" >
+
+## This is a clone of Amazon-shopping-site and I made it using Reactjs and firebase as authentication. 
+### Key features
+* No refreshing of entire page
+* Cloud authentication using firebase
+* Add to cart feature
+* Remove from cart
+* pop-ups
+* checkout page 
+* Stripe test mode
+<hr> 
+<hr>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
